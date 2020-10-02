@@ -2,15 +2,7 @@
 
 ### List of addons that are compatible with ScoreHud.
 
->**I won't be making any more. So if you would like a plugin to be supported then ask the author of that plugin to make a ScoreHud addon.**
-
-# How to setup?
-
-- Please refer to [here](https://github.com/JackMD/ScoreHud/tree/master#addons) and [here](https://github.com/JackMD/ScoreHud/tree/master#how-to-use-addons).
-
-# How to download?
-
-- Download the repository by clicking the `Clone or download` button on the top right side of this page and then click `Download ZIP` to download all the addons. Or click [here](https://github.com/JackMD/ScoreHud-Addons/archive/master.zip) to download.
+- Download the repository by clicking the `Clone or download` button on the top right side of this page and then click `Download ZIP` to download all the addons. Or click [here](https://github.com/jaylac2000/ScoreHud-Addons/archive/master.zip) to download.
 
 # Addons 
 
