@@ -2,7 +2,7 @@
 
 ### List of addons that are compatible with ScoreHud.
 
-- Download the repository by clicking the `Clone or download` button on the top right side of this page and then click `Download ZIP` to download all the addons. Or click [here](https://github.com/jaylac2000/ScoreHud-Addons/archive/master.zip) to download.
+- Download the repository by clicking the `Clone or download` button on the top right side of this page and then click `Download ZIP` to download all the addons.
 
 # Addons 
 
@@ -22,3 +22,6 @@
 |OnlineTimeAddon|`{total_time}`, `{session_time}`|[OnlineTime](https://github.com/Zedstar16/OnlineTime)|
 |BravoClanAddon| `{clan}`, `{clan_xp}`, `{clan_next_lvl}`, `{clan_kills}`, `{clan_deaths}`, `{clan_members}`, `{clan_max_members}`, `{member_kills}`, `{member_deaths}`| [BravoClan](https://github.com/Itzdvbravo/BravoClan)|
 |PrisonEssential| `{prison_rank}`, `{prison_nextrank}`, `{price_to_rankup}`, `{prestige}`, `{next_prestige}`|[PrisonEssential](https://github.com/iZeaoGamer/PrisonEssential)|
+|Hierarchy| `{roles}`, `{top_role}`,|[Hierarchy](https://github.com/CortexPE/Hierarchy)|
+|Rewards| `{reward_wait_time}`, `{reward_streak}`,|[Hierarchy](https://github.com/Wertzui123/Rewards)|
+|MyPlot| `{plotowner}`, `{plotid}`,|[Hierarchy](https://github.com/jasonwynn10/MyPlot)|
