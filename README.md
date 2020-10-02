@@ -23,5 +23,5 @@
 |BravoClanAddon| `{clan}`, `{clan_xp}`, `{clan_next_lvl}`, `{clan_kills}`, `{clan_deaths}`, `{clan_members}`, `{clan_max_members}`, `{member_kills}`, `{member_deaths}`| [BravoClan](https://github.com/Itzdvbravo/BravoClan)|
 |PrisonEssential| `{prison_rank}`, `{prison_nextrank}`, `{price_to_rankup}`, `{prestige}`, `{next_prestige}`|[PrisonEssential](https://github.com/iZeaoGamer/PrisonEssential)|
 |Hierarchy| `{roles}`, `{top_role}`,|[Hierarchy](https://github.com/CortexPE/Hierarchy)|
-|Rewards| `{reward_wait_time}`, `{reward_streak}`,|[Hierarchy](https://github.com/Wertzui123/Rewards)|
-|MyPlot| `{plotowner}`, `{plotid}`,|[Hierarchy](https://github.com/jasonwynn10/MyPlot)|
+|Rewards| `{reward_wait_time}`, `{reward_streak}`,|[Rewards](https://github.com/Wertzui123/Rewards)|
+|MyPlot| `{plotowner}`, `{plotid}`,|[MyPlot](https://github.com/jasonwynn10/MyPlot)|
