@@ -25,3 +25,4 @@
 |Hierarchy| `{roles}`, `{top_role}`,|[Hierarchy](https://github.com/CortexPE/Hierarchy)|
 |Rewards| `{reward_wait_time}`, `{reward_streak}`,|[Rewards](https://github.com/Wertzui123/Rewards)|
 |MyPlot| `{plotowner}`, `{plotid}`,|[MyPlot](https://github.com/jasonwynn10/MyPlot)|
+|PiggyFactions| `{faction}`, `{faction_power}`, `{faction_rank}`,|[PiggyFactions](https://github.com/DaPigGuy/PiggyFactions)|
